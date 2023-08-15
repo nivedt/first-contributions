@@ -330,6 +330,7 @@
 - [HAH](https://github.com/HtetAungHtet)
 - [Shubhadeep Karmakar](https://github.com/ShubhadeepKarmakar)
 - [Vishnu Chakravarthi](https://github.com/VishnuChakravarthi)
+- [Maithri Hebbar](https://github.com/maithrivh)
 - [Vinit Hemadri](https://github.com/Vinitvh)
 - [Prayag](https://github.com/Prayag-09)
 - [Ballween](https://github.com/Ballween)
